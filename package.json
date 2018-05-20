@@ -1,0 +1,22 @@
+{
+  "name": "raspberry-pi-3-gpio-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikasinger1/raspberry-pi-3-gpio-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikasinger1/raspberry-pi-3-gpio-javascript/issues"
+  },
+  "homepage": "https://github.com/malikasinger1/raspberry-pi-3-gpio-javascript#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
